@@ -6,7 +6,9 @@
 
 ## I'm Saket Aryan 🌚
 
-### Thanks for visiting my profile 🙏 ![d](https://visitor-badge.laobi.icu/badge?page_id=whysosaket)
+### Thanks for visiting my profile 🙏
+<br>
+![d](https://visitor-badge.laobi.icu/badge?page_id=whysosaket)
 
 ## About me :eyes:
 
