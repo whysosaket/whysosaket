@@ -17,7 +17,7 @@
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=whysosaket&theme=react-dark" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=8&theme=react" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=8&theme=react"/>
 
 
 
