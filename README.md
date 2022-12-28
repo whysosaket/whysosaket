@@ -6,6 +6,9 @@
 
 ## Languages and Tools I Use :computer:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
  
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
@@ -15,7 +18,7 @@
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=whysosaket&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=whysosaket&theme=react" />              |
 | --------------------- | ------------------------- |
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=whysosaket&theme=react-dark" />
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=8&theme=react"/>
 
