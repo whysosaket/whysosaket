@@ -20,7 +20,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=8&theme=react"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=10&theme=react"/>
 
 
 ### Reach out to me 👓
