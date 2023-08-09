@@ -13,7 +13,7 @@
 
 <h2 align="center">🏆 𝑴𝒚 𝑮𝒊𝒕𝒉𝒖𝒃 𝑻𝒓𝒐𝒑𝒉𝒊𝒆𝒔</h2>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=whysosaket&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="780px"  />
+<img src="https://github-profile-trophy.vercel.app/?username=whysosaket&theme=juicyfresh&&title=Followers,Commit,PR,Repo,Issues,MultiLanguage&no-frame=true" width="780px"  />
 
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=whysosaket&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=whysosaket&theme=react" />              |
 | --------------------- | ------------------------- |
