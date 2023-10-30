@@ -1,6 +1,6 @@
 ## I'm Saket Aryan 🌚
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=whysosaket&theme=react" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=10&theme=react"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysosaket&langs_count=11&theme=react"/>
 
 
 ### Reach out to me 👓
