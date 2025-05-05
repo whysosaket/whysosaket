@@ -12,4 +12,7 @@
 
 ![d](https://visitor-badge.laobi.icu/badge?page_id=whysosaket)
 
- 
+ ![mem0-mascot](https://github.com/user-attachments/assets/7f3be294-0e6e-4d0c-afc2-52d0d8799fd6)
+
+![mem0-mascot-bg](https://github.com/user-attachments/assets/62864baa-d567-4a9e-b2b8-15bae4968a3e)
+
